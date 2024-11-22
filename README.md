@@ -41,7 +41,7 @@ The **GitHub Profile Finder** is a web application designed to retrieve and disp
 ---
 
 ## Demo Video
-https://github.com/user-attachments/assets/3cd59a5e-2fa0-465d-a23b-4ff38ef1c2b3
+https://github.com/user-attachments/assets/2520dc0a-5846-4030-98fe-1839f8a31beb
 
 ---
 
